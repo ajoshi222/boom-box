@@ -1,6 +1,7 @@
 Noicy
 
 
+![Screenshot 2023-02-08 220329](https://user-images.githubusercontent.com/69758727/217592516-8ea402c0-20d4-41b3-bfcf-43b02eaed4cc.png)
 
 [![Build Status](https://travis-ci.org/jenovs/spotify-clone.svg?branch=development)](https://travis-ci.org/jenovs/spotify-clone)
 [![codecov](https://codecov.io/gh/jenovs/spotify-clone/branch/development/graph/badge.svg)](https://codecov.io/gh/jenovs/spotify-clone)
